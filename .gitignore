@@ -1,0 +1,14 @@
+# Compiled executable
+sphere
+
+# Object files
+*.o
+
+# Output files
+*.out
+
+# Backup files
+*~
+
+# VS Code workspace settings (optional)
+.vscode/
